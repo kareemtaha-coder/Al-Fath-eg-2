@@ -1,0 +1,367 @@
+{
+  "navbar": {
+    "home": "Home",
+    "courses": "Courses",
+    "hiring": "Hiring",
+    "blogs": "Blogs",
+    "videoSection": "Fast Contact",
+    "joinNow": "Join Now",
+    "sessions": "sessions",
+    "hero": "Hero",
+    "coursesSection": "Courses",
+    "adventures": "Adventures",
+    "testimonialVideoSection": "Testimonial Videos",
+    "featuresSection": "Features",
+    "teamSection": "Team",
+    "sessionsSection": "Sessions",
+    "blogSection": "Blog",
+    "testimonialSection": "Testimonials",
+    "commonQuestionsSection": "Common Questions",
+    "language": {
+      "english": "🌐 English",
+      "arabic": "🌐 عربى"
+    }
+  },
+  "hero": {
+    "welcome": "Al-Fath Institute",
+    "description": "Access 12+ Live Course From Top Instructors , Al-Fath Institute, we believe that education is the foundation of all progress",
+    "getStarted": "ُEnroll Now",
+    "aboutUs": "About Us",
+    "aboutWelcome": "Welcome to Al-Fath Learning Center",
+    "experience": "25+ YEARS EXPERIENCE JUST ACHIEVED",
+    "quote": "Contrary to popular belief, Lorem Ipsum is not simply random text roots in a piece of classical Latin literature from 45 BC.",
+    "achievement": "ًWeekly Classes",
+    "students": "Total Students",
+    "instructors": "Total Teachers",
+    "family": "Family",
+    "contactUs": "Contact Us"
+  },
+
+  "registration": {
+    "tag": "Quick Contact",
+    "title": "Register with minimal information",
+    "coursesCount": "We will contact you soon",
+    "coursesText": " by our staff",
+    "subtitle": "Learn something new and build your child’s future from anywhere in the world",
+    "videoHint": {
+      "title": "Watch the introductory video",
+      "subtitle": "Learn more about Alfath Institute"
+    },
+
+    "form": {
+      "title": "Fill Your Registration",
+      "firstName": {
+        "placeholder": "First Name",
+        "error": "First Name is required and must be at least 2 characters long."
+      },
+      "lastName": {
+        "placeholder": "Last Name",
+        "error": "Last Name is required and must be at least 2 characters long."
+      },
+      "phoneNumber": {
+        "error": "Phone Number is required."
+      },
+      "submit": "Sign Up →"
+    }
+  },
+  "subject": {
+    "popularSubjectLabel": "Popular Subjects",
+    "headerTitle": "Join the Al-Fath Teaching Team",
+    "headerSubtitle": "Contribute to the future of education at Al-Fath Institute by joining our team of passionate and qualified teachers.",
+    "headerQuote": "At Al-Fath, teaching is about nurturing minds and inspiring growth. Become part of our mission to deliver quality education.",
+    "applyButton": "Apply Now",
+    "subjectCards": [
+      {
+        "icon": "📖",
+        "title": "Islamic Studies",
+        "description": "We seek teachers who can provide insightful and deep understanding of Islamic principles and history."
+      },
+      {
+        "icon": "📖",
+        "title": "Qur'an",
+        "description": "Join our institute to teach students the recitation and memorization of the Holy Qur'an."
+      },
+      {
+        "icon": "📖",
+        "title": "Tajweed",
+        "description": "Be part of our department teaching proper Tajweed and the memorization of the Qur'an."
+      },
+      {
+        "icon": "📝",
+        "title": "Arabic Language",
+        "description": "Help us preserve the beauty of the Arabic language by teaching it to our enthusiastic students."
+      }
+    ],
+    "viewSubjectLink": "View Open Positions"
+  },
+  "activities": {
+    "title": "Explore Our Courses",
+    "cards": [
+      {
+        "image": "../../../../assets/images/hero.png",
+        "title": "Arabic Course",
+        "description": "At Al-Fateh Institute, we make learning Arabic easy and enjoyable. We light the way to effective communication. ",
+        "buttonLabel": "Explore Course",
+        "link": "arabic-course"
+      },
+      {
+        "image": "assets/images/hero.png",
+        "title": "Qur'an Course",
+        "description": "At Al-Fateh Institute, we make learning the Holy Quran an inspiring spiritual experience. We light the way to faith and devotion",
+        "buttonLabel": "Explore Course",
+        "link": "quran-course"
+      },
+      {
+        "image": "assets/images/hero.png",
+        "title": "Islamic Course",
+        "description": "At Al-Fateh Institute, we make learning Islamic sciences an inspiring journey towards deep understanding. We light the way to wisdom. ",
+        "buttonLabel": "Explore Course",
+        "link": "islamic-course"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Parents Say About Us",
+    "popularSubjectLabel": "Popular Subject",
+    "headerTitle": "Provide IT & Tech Subject For You",
+    "headerSubtitle": "Construction is a general term meaning the art and science to form systems organizations, and comes from Latin Construction is",
+    "headerQuote": "Construction is a general term meaning the art and science to form systems organizations, and comes from Latin construction and Old",
+    "exploreButton": "Contact To Show More →"
+  },
+  "features": {
+    "imageUrl": "assets/images/hero.png",
+    "imageAlt": "Fun Learning",
+    "title": "Why Kids and Parents Love Us?",
+    "mainFeatureIcon": "assets/images/hero.png",
+    "mainFeatureTitle": "Interactive Learning",
+    "mainFeatureDescription": "Our courses are designed to be engaging and interactive, making learning fun!",
+    "accordionFeatures": [
+      {
+        "headingId": "headingOne",
+        "collapseId": "collapseOne",
+        "iconUrl": "assets/images/hero.png",
+        "title": "Expert Instructors",
+        "description": "Learn from the best with our experienced and friendly instructors."
+      },
+      {
+        "headingId": "headingTwo",
+        "collapseId": "collapseTwo",
+        "iconUrl": "assets/images/hero.png",
+        "title": "Fun Activities",
+        "description": "Enjoy a variety of fun activities that make learning enjoyable."
+      }
+    ]
+  },
+  "ourTeam": {
+    "title": "Meet Our Team",
+    "members": [
+      {
+        "photoUrl": "../../../../assets/images/hero.png",
+        "name": "John Doe",
+        "role": "Chief Fun Officer",
+        "description": "John loves creating exciting learning experiences for kids. His passion for education makes him the perfect leader for our team!"
+      },
+      {
+        "photoUrl": "../../../../assets/images/hero.png",
+        "name": "Jane Smith",
+        "role": "Creative Genius",
+        "description": "Jane brings creativity and innovation to our projects, making learning fun and engaging for every child."
+      },
+      {
+        "photoUrl": "../../../../assets/images/hero.png",
+        "name": "Sam Brown",
+        "role": "Tech Wizard",
+        "description": "Sam's expertise in technology ensures that our platform runs smoothly and is always up to date with the latest trends."
+      }
+    ]
+  },
+  "VIDEO_PLAYLIST": {
+    "TITLE": "Check our Sessions"
+  },
+  "COMMON_QUESTIONS": {
+    "TITLE": "Common Questions",
+    "FIRST": {
+      "TITLE": "What is the purpose of this website?",
+      "CONTENT": "This website aims to provide engaging and educational content for kids, helping them learn and have fun at the same time.",
+      "ICON_ALT": "Question Icon",
+      "IMAGE_ALT": "Educational Image"
+    },
+    "SECOND": {
+      "TITLE": "How can I sign up?",
+      "CONTENT": "To sign up, simply click on the 'Register' button on the top right corner of the page and follow the instructions.",
+      "ICON_ALT": "Question Icon",
+      "IMAGE_ALT": "Signup Image"
+    },
+    "THIRD": {
+      "TITLE": "Are there any subscription fees?",
+      "CONTENT": "We offer a range of free content, with additional premium features available through a subscription plan.",
+      "ICON_ALT": "Question Icon",
+      "IMAGE_ALT": "Subscription Image"
+    }
+  },
+  "HIRING": {
+    "LOADING": "Loading...",
+    "FIELD_SELECTION": {
+      "TITLE": "Select Your Field of Expertise",
+      "LABEL": "Choose a Field:",
+      "PLACEHOLDER": "-- Select a Field --"
+    },
+    "TEACHER_FORM": {
+      "TITLE": "Teacher Information",
+      "NAME": {
+        "LABEL": "Full Name",
+        "ERROR": "Name is required (minimum 2 characters)."
+      },
+      "EDUCATION": {
+        "LABEL": "Education",
+        "ERROR": "Education information is required."
+      },
+      "PHONE": {
+        "LABEL": "Phone Number",
+        "ERROR": "Please enter a valid 11-digit phone number."
+      }
+    }
+  },
+  "TEACHER_FORM": {
+    "NATIONAL_ID": {
+      "LABEL": "National ID",
+      "ERROR": "Please enter a valid 14-digit National ID."
+    },
+    "YEARS_OF_EXPERIENCE": {
+      "LABEL": "Years of Experience",
+      "ERROR": "Please enter a valid number of years (0-50)."
+    },
+    "DATE_OF_BIRTH": {
+      "LABEL": "Date of Birth",
+      "ERROR": "Please enter a valid date of birth (age must be between 18 and 65)."
+    },
+    "START_QUIZ_BUTTON": "Start Quiz",
+    "RESELECT_FIELD_BUTTON": "Reselect Field"
+  },
+  "QUIZ_RESULTS": {
+    "TITLE": "Quiz Results",
+    "PROMPT": "You have completed the quiz. Click 'Submit Results' to proceed.",
+    "RESTART_BUTTON": "Restart Quiz",
+    "RESELECT_FIELD_BUTTON": "Reselect Field",
+    "SUBMIT_BUTTON": "Submit Results"
+  },
+  "SUBMISSION_CONFIRMATION": {
+    "TITLE": "Thank You!",
+    "MESSAGE": "Your information and quiz results have been submitted successfully.",
+    "SCORE": "Final Score: {{ score }} / {{ total }}"
+  },
+  "MODAL": {
+    "TITLE": "Let's Connect!",
+    "CLOSE": "Close",
+    "SUBMIT": "Submit",
+    "FIELDS": {
+      "NAME": {
+        "PLACEHOLDER": "Your Name",
+        "ERROR": "Name is required."
+      },
+      "COUNTRY": {
+        "PLACEHOLDER": "Your Country",
+        "ERROR": "Country is required."
+      },
+      "PHONE": {
+        "ERROR": "Phone number is required."
+      },
+      "NUMBER_OF_CHILDREN": {
+        "PLACEHOLDER": "Number of Children",
+        "ERROR": "Number of Children is required."
+      },
+      "PLAN_CHOICE": {
+        "PLACEHOLDER": "Select your plan",
+        "OPTIONS": {
+          "BASIC": "Basic",
+          "STANDARD": "Standard",
+          "PRO": "Pro"
+        },
+        "ERROR": "Plan is required."
+      },
+      "COURSE": {
+        "PLACEHOLDER": "Select your course",
+        "OPTIONS": {
+          "QURAN": "Quran",
+          "HADITH": "Hadith",
+          "ARABIC": "Arabic"
+        },
+        "ERROR": "Course is required."
+      },
+      "CITY": {
+        "PLACEHOLDER": "Your City",
+        "ERROR": "City is required."
+      }
+    },
+    "NOTIFICATION": {
+      "SUCCESS": "Form submitted successfully!",
+      "ERROR": "There was an error submitting the form."
+    }
+  },
+  "Arabic-course": {
+    "title": "📚 Al-Fath Institute presents: Arabic Language Course for Non-Native Speakers 🌍",
+    "description": "Do you want your children to learn Arabic fluently and connect with their cultural heritage? Al-Fath Institute offers a distinguished Arabic language course for non-native speakers, specifically designed for the children of Arab communities residing in America and Europe.",
+    "why_choose": "Why choose Al-Fath Institute's course?",
+    "points": [
+      "A comprehensive curriculum covering all aspects of Arabic: reading, writing, speaking, and listening, ensuring a well-rounded education.",
+      "A team of professional teachers experienced in teaching Arabic to non-native speakers, using the latest methods.",
+      "A variety of classes for different ages and levels, with a flexible schedule to suit families. Private classes are also available.",
+      "We rely on modern technology and interactive tools for an enjoyable and effective learning experience.",
+      "In addition to language, students gain a deep understanding of Arab and Islamic culture, reinforcing their cultural identity."
+    ],
+    "objectives": {
+      "title": "Course Objectives:",
+      "points": [
+        "Develop Arabic language skills in children and youth in a fun and effective way.",
+        "Strengthen the Arab and Islamic cultural identity of the community.",
+        "Provide opportunities for community members to connect and share experiences."
+      ]
+    },
+    "call_to_action": "Reserve your spot now! Don't miss this valuable opportunity to teach your children Arabic and enable them to connect better with their community.",
+    "registration": "To register or learn more, please visit the registration page."
+  },
+  "Islamic-course": {
+    "title": "📚 Al-Fath Institute presents: Islamic Studies Course for Children 🌍",
+    "description": "Do you want your children to learn Islamic sciences in a comprehensive way? Al-Fath Institute offers a distinguished Islamic studies course for Arab children and youth residing in America and Europe.",
+    "why_choose": "Why choose Al-Fath Institute's course?",
+    "points": [
+      "A comprehensive curriculum covering various aspects of Islamic sciences: Quran, Hadith, Fiqh, and Aqeedah, ensuring a well-rounded education.",
+      "A team of experienced and specialized teachers in children's education, using the latest methods.",
+      "A variety of classes for different ages and levels, with a flexible schedule to suit families. Private lessons are also available upon request.",
+      "We rely on modern technology and interactive tools for an enjoyable and effective learning experience.",
+      "In addition to Islamic sciences, students are taught Islamic morals and values to strengthen their cultural and religious identity."
+    ],
+    "objectives": {
+      "title": "Course Objectives:",
+      "points": [
+        "Develop Islamic science skills in children and youth in a fun and effective way.",
+        "Strengthen the Islamic and cultural identity of the Arab community.",
+        "Provide opportunities for community members to connect and share experiences."
+      ]
+    },
+    "call_to_action": "Reserve your spot now! Don't miss this valuable opportunity to teach your children Islamic sciences and enable them to connect better with their community.",
+    "registration": "To register or learn more, please visit the registration page."
+  },
+  "Quran-course": {
+    "title": "📖 Al-Fath Institute presents: Qur'an Course for Children 🌍",
+    "description": "Do you want your children to learn how to recite and memorize the Qur'an correctly? Al-Fath Institute offers a distinguished Qur'an course for Arab children and youth residing in America and Europe.",
+    "why_choose": "Why choose Al-Fath Institute's Qur'an course?",
+    "points": [
+      "A comprehensive curriculum covering Qur'anic recitation, Tajweed, and memorization of various Surahs, catering to all levels.",
+      "A team of specialized teachers experienced in teaching children Tajweed and memorization using modern educational methods.",
+      "Flexible class schedules that suit family needs, with the option for private lessons.",
+      "We use interactive technology to provide an enjoyable and effective learning experience.",
+      "In addition to memorization, children are taught the meanings of the Surahs to deepen their understanding of the Qur'an."
+    ],
+    "objectives": {
+      "title": "Course Objectives:",
+      "points": [
+        "Teach children proper Qur'anic recitation and Tajweed.",
+        "Help children memorize the Qur'an and strengthen their connection to it.",
+        "Provide children with a deeper understanding of the meanings of the Qur'an."
+      ]
+    },
+    "call_to_action": "Reserve your spot now! Don't miss this valuable opportunity to teach your children how to recite and memorize the Qur'an, and strengthen their connection to their faith.",
+    "registration": "To register or learn more, please visit the registration page."
+  }
+}
